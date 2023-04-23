@@ -1,0 +1,5 @@
+501005001,Nandika,ApallaReddy,521591255636,9999999999,g@gmail.com,Male,23-9-1999,Visakhapatnam
+501005002,Saksham,Jain,521591255648,8552963744,saksham@gmail.com,Male,14-7-2000,Jaipur
+501005003,Dev,Parihar,521591255685,7523698546,dev@gmail.com,Male,10-2-2000,Jodhpur
+501005004,Jahnavi,Tamarapalli,521591255691,7521489643,jahnavi@gmail.com,Female,30-3-2000,delhi
+501005005,Jithendra,Kumar Molamanti,521591255629,7536989519,jithendra@gmail.com,Male,20-10-2000,kolkata
